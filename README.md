@@ -38,11 +38,20 @@
 </p>
 
 > **Also using**: Spring Boot · Spring Security · Spring Cloud · Hibernate · JPA · RabbitMQ · OAuth2 · Swagger · JUnit · Prometheus · Grafana · GitLab · Resilience4j
+
+
 ---
 ## 📌 Most Used Languages
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakverse&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=F7971E&text_color=ffffff&icon_color=00FFE1&border_radius=15&hide_border=true" width="450" />
+</div>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakverse&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
+  <img src="https://img.shields.io/badge/Java-First%20Love-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-Used+in+Projects-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-Caching%20King-%23DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML%2FCSS-Basics%20Covered-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
 
