@@ -5,26 +5,37 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Sarthak+Rastogi!;Java+Backend+Developer+from+India;Spring+Boot+%7C+React+%7C+Microservices;DSA+%7C+Cloud+%7C+System+Design+Learner;Open+Source+Contributor+%F0%9F%92%AA" />
 </p>
 
-<!-- Profile picture -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/117356021?v=4" width="160" style="border-radius: 50%; box-shadow: 0px 0px 30px #0ff;" />
-</p>
-
 <h1 align="center">🚀 Full Stack Developer | ☕ Java Enthusiast | ☁️ DevOps Curious</h1>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099FF,100:00FEEE&height=90&section=header&animation=twinkling"/>
 
 ---
 
-## 🧠 About Me
+<h2 align="center">🧠 About Me</h2>
 
-- 🎓 B.Tech CSE @ AKGEC, Ghaziabad | SGPA: 8.34  
-- 📍 From Sitapur, Uttar Pradesh  
-- 🧑‍💻 Backend enthusiast | Frontend learner  
-- 🎯 Goal: Become a top-tier Full Stack Developer  
-- 😅 Fun fact: I *used to hate coding* till class 11th
+<table align="center">
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/student-center.png" width="30"/></td>
+    <td><strong>B.Tech CSE</strong> @ <a href="https://www.akgec.ac.in/">AKGEC, Ghaziabad</a> | <strong>SGPA:</strong> 8.34</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/fluency/48/india.png" width="30"/></td>
+    <td>📍 From <strong>Sitapur, Uttar Pradesh</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/external-others-inmotus-design/67/external-backend-web-development-others-inmotus-design.png" width="30"/></td>
+    <td>🧑‍💻 <strong>Backend Enthusiast</strong> | Frontend Explorer</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/ios-filled/50/goal.png" width="30"/></td>
+    <td>🎯 <strong>Aim:</strong> Become a Full Stack Developer</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/emoji/48/laughing-emoji.png" width="30"/></td>
+    <td>😅 Fun Fact: I <em>used to hate coding</em> till class 11th 😆</td>
+  </tr>
+</table>
 
----
 
 ## 🏫 Education
 
