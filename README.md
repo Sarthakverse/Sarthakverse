@@ -65,21 +65,36 @@
 </p>
 
 ---
-<h2 align="left">💼 Internship Experience</h2>
+<!-- 💼 Internship Section -->
+<h2 align="center">💼 Internship Experience</h2>
 
-### Java Developer Intern  
-**Codehop Interfusion Pvt Ltd** | Remote  
-🗓️ October 2024 – February 2025
+<div align="center">
+  <img src="https://img.shields.io/badge/Company-Codehop%20Interfusion%20Pvt%20Ltd-blueviolet?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Java%20Developer%20Intern-ff8c00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Duration-Oct%202024%20--%20Feb%202025-0d1117?style=for-the-badge&color=grey" />
+  <img src="https://img.shields.io/badge/Location-Remote-009688?style=for-the-badge" />
+</div>
 
----
+<br/>
 
-**Highlights:**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=INTERNSHIP%20HIGHLIGHTS&height=100&fontSize=25&descAlignY=60&animation=twinkling" />
+</div>
 
-- Developed an automated system to manage user accounts and dispatch notifications, supporting 500+ users with minimal manual input.
-- Contributed to the INTERLINK audit module by enhancing security protocols and logging mechanisms.
-- Wrote and maintained 50+ unit tests using JUnit, ensuring 90% test coverage and fewer production bugs.
-- Improved the application's scoring logic to better track user engagement and focus duration.
-- Actively participated in sprint planning, code reviews, and Git-based version control processes.
+<div align="left">
+
+<blockquote>
+  <ul>
+    <li>➤ Designed and implemented an automated system for account management and real-time notifications, serving over <strong>500+ users</strong>.</li><br/>
+    <li>➤ Strengthened the security and traceability of the <strong>INTERLINK</strong> module by integrating enhanced audit logging and access control.</li><br/>
+    <li>➤ Wrote <strong>50+ unit/integration tests</strong> using <code>JUnit</code>, achieving <strong>90% test coverage</strong> and minimizing production-level bugs.</li><br/>
+    <li>➤ Optimized backend scoring logic, resulting in improved focus-tracking and decision-making precision for users.</li><br/>
+    <li>➤ Followed agile practices, participated in <code>sprint planning</code>, <code>code reviews</code>, and implemented <code>CI/CD pipelines</code> under senior guidance.</li>
+  </ul>
+</blockquote>
+
+</div>
+
 
 ---
 
