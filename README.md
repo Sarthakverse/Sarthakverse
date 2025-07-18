@@ -120,25 +120,56 @@
 
 ---
 
-## 🚀 Projects
+<!-- 🚀 Projects Section -->
+<h2 align="center">🚀 Projects</h2>
 
-### 💰 [TradeXpert](https://github.com/Sarthakverse/TradeXpert-Backend)
-> Crypto trading platform built using Java 17 + Spring Boot + React.js
+<!-- 🔥 TradeXpert Project -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:151515,100:2c5364&height=80&text=💰%20TradeXpert&fontColor=ffffff&fontSize=30&animation=fadeIn" />
+</div>
 
-- 📦 Backend: JWT Auth, Spring Security, Stripe/Razorpay
-- 🔗 Real-time market data via CoinGecko API
-- 🤖 Gemini-powered chatbot for support
-- 🎨 Frontend in React + Tailwind CSS
+<p align="center">
+  <b>Link:</b> <a href="https://github.com/Sarthakverse/TradeXpert-Backend">github.com/Sarthakverse/TradeXpert-Backend</a>
+</p>
+
+<p align="justify">
+<b>TradeXpert</b> is a full-stack crypto trading simulation platform designed to mimic real-world trading functionality with secure backend architecture and a modern frontend UI.
+</p>
+
+<ul>
+  <li><b>🔒 Backend Auth & Security:</b> Implemented token-based JWT authentication with Spring Security and custom role-based access control.</li>
+  <li><b>💳 Payments:</b> Integrated Stripe and Razorpay payment gateways for handling mock deposits and transaction flows.</li>
+  <li><b>📈 Live Data Integration:</b> Pulled real-time market prices using <code>CoinGecko API</code> to simulate portfolio changes.</li>
+  <li><b>🤖 AI Chatbot:</b> Embedded Gemini AI chatbot for guiding new users on trading steps and platform navigation.</li>
+  <li><b>🖥️ Frontend:</b> Developed using <code>React.js</code> with <code>Tailwind CSS</code> for a sleek, responsive UI.</li>
+</ul>
+
+<p><b>🔧 Tech Stack:</b> Java 17, Spring Boot, MySQL, Spring Security, React, Tailwind CSS, Stripe, Razorpay, Gemini API</p>
 
 ---
 
-### 🍽️ [Canteen Management System](https://github.com/Sarthakverse/canteen-app-backend)
-> Backend for online food ordering in college canteens
+<!-- 🥗 Canteen Management System -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=80&text=🍽️%20Canteen%20Management%20System&fontColor=ffffff&fontSize=26&animation=twinkling" />
+</div>
 
-- 🔐 Secure JWT login system  
-- 📋 CRUD: Canteens, Foods, Orders  
-- ❤️ Wishlist, Reviews, Order history  
-- 💳 Razorpay for payments
+<p align="center">
+  <b>Link:</b> <a href="https://github.com/Sarthakverse/canteen-app-backend">github.com/Sarthakverse/canteen-app-backend</a>
+</p>
+
+<p align="justify">
+The <b>Canteen Management System</b> backend is built for automating food ordering in college cafeterias, designed with a clean and secure service structure.
+</p>
+
+<ul>
+  <li><b>🔐 Authentication:</b> Robust JWT-based login for students and admins with token validation middleware.</li>
+  <li><b>🛒 Features:</b> Full CRUD operations for <code>Canteens</code>, <code>Food Items</code>, <code>Orders</code>, <code>Users</code>.</li>
+  <li><b>💖 Extras:</b> Wishlist management, reviews, and order history for better UX and repeat ordering behavior.</li>
+  <li><b>💸 Payment Gateway:</b> Integrated Razorpay to process orders securely and efficiently.</li>
+  <li><b>📦 Clean Layered Architecture:</b> Follows MVC pattern, uses service-repository layering and DTO mappings.</li>
+</ul>
+
+<p><b>🔧 Tech Stack:</b> Java 17, Spring Boot, PostgreSQL, Razorpay, Spring Security, JWT</p>
 
 ---
 
