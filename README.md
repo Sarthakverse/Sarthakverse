@@ -65,16 +65,21 @@
 </p>
 
 ---
-## 💼 Internship Experience
+<h2 align="left">💼 Internship Experience</h2>
 
-### 👨‍💻 Java Developer Intern @ Codehop Interfusion Pvt Ltd  
-📅 Oct 2024 – Feb 2025  
-🌍 Remote  
+### Java Developer Intern  
+**Codehop Interfusion Pvt Ltd** | Remote  
+🗓️ October 2024 – February 2025
 
-- ✅ Automated account management & notifications for 500+ users  
-- 🔐 Improved audit + security module in INTERLINK project  
-- 🧪 Achieved 90% test coverage with 50+ JUnit tests  
-- 🧠 Tuned scoring logic to enhance user focus
+---
+
+**Highlights:**
+
+- Developed an automated system to manage user accounts and dispatch notifications, supporting 500+ users with minimal manual input.
+- Contributed to the INTERLINK audit module by enhancing security protocols and logging mechanisms.
+- Wrote and maintained 50+ unit tests using JUnit, ensuring 90% test coverage and fewer production bugs.
+- Improved the application's scoring logic to better track user engagement and focus duration.
+- Actively participated in sprint planning, code reviews, and Git-based version control processes.
 
 ---
 
