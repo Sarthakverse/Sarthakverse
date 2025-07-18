@@ -7,7 +7,7 @@
 
 <!-- Profile picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/112132250?v=4" width="160" style="border-radius: 50%; box-shadow: 0px 0px 30px #0ff;" />
+  <img src="https://avatars.githubusercontent.com/u/117356021?v=4" width="160" style="border-radius: 50%; box-shadow: 0px 0px 30px #0ff;" />
 </p>
 
 <h1 align="center">🚀 Full Stack Developer | ☕ Java Enthusiast | ☁️ DevOps Curious</h1>
