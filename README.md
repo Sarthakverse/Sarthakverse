@@ -22,8 +22,15 @@
 🔹 **Goal:** To become a top-tier Full Stack Developer  
 🔹 **Fun Fact:** I *used to hate coding* till class 11th — now I love it 😄
 
+---
 
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sarthakverse/Sarthakverse/output/snake.svg" alt=\"snake eating commits\"/>
+</p>
+
+---
 ## 🏫 Education
 
 **Ajay Kumar Garg Engineering College (AKGEC)** – Ghaziabad  
@@ -116,14 +123,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakverse&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sarthakverse/Sarthakverse/output/snake.svg" alt=\"snake eating commits\"/>
 </p>
 
 ---
