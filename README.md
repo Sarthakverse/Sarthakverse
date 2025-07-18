@@ -11,30 +11,17 @@
 
 ---
 
-<h2 align="center">🧠 About Me</h2>
+## 🧠 About Me
 
-<table align="center">
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/student-center.png" width="30"/></td>
-    <td><strong>B.Tech CSE</strong> @ <a href="https://www.akgec.ac.in/">AKGEC, Ghaziabad</a> | <strong>SGPA:</strong> 8.34</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/fluency/48/india.png" width="30"/></td>
-    <td>📍 From <strong>Sitapur, Uttar Pradesh</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/external-others-inmotus-design/67/external-backend-web-development-others-inmotus-design.png" width="30"/></td>
-    <td>🧑‍💻 <strong>Backend Enthusiast</strong> | Frontend Explorer</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/ios-filled/50/goal.png" width="30"/></td>
-    <td>🎯 <strong>Aim:</strong> Become a Full Stack Developer</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/emoji/48/laughing-emoji.png" width="30"/></td>
-    <td>😅 Fun Fact: I <em>used to hate coding</em> till class 11th 😆</td>
-  </tr>
-</table>
+🔹 **Name:** Sarthak Rastogi  
+🔹 **Education:** B.Tech in Computer Science @ AKGEC, Ghaziabad  
+🔹 **SGPA:** 8.34  
+🔹 **Location:** Sitapur, Uttar Pradesh, India 🇮🇳  
+🔹 **Interests:** Backend Development, System Design, Microservices  
+🔹 **Current Focus:** Spring Boot, React, DSA, DevOps tools  
+🔹 **Goal:** To become a top-tier Full Stack Developer  
+🔹 **Fun Fact:** I *used to hate coding* till class 11th — now I love it 😄
+
 
 
 ## 🏫 Education
