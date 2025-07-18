@@ -25,6 +25,19 @@
 🔹 **Goal:** To become a top-tier Full Stack Developer  
 🔹 **Fun Fact:** I *used to hate coding* till class 11th — now I love it 😄
 
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:sarthakrastogi102@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sarthak-rastogi-47bb11256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Sarthakverse"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/rsarthak123"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://medium.com/@rsarthakverse123"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</p>
+
+---
+
 ## 🏫 Education
 
 **Ajay Kumar Garg Engineering College (AKGEC)** – Ghaziabad  
@@ -208,18 +221,6 @@ The <b>Canteen Management System</b> backend is built for automating food orderi
 </p>
 ---
 
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="mailto:sarthakrastogi102@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/sarthak-rastogi-47bb11256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Sarthakverse"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/rsarthak123"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://medium.com/@rsarthakverse123"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-</p>
-
----
 
 <!-- 🌊 Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FEEE&height=100&section=footer&animation=twinkling"/>
