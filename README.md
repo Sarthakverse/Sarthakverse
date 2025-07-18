@@ -66,34 +66,56 @@
 
 ---
 <!-- 💼 Internship Section -->
+<!-- Internship Section -->
 <h2 align="center">💼 Internship Experience</h2>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Company-Codehop%20Interfusion%20Pvt%20Ltd-blueviolet?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-Java%20Developer%20Intern-ff8c00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Duration-Oct%202024%20--%20Feb%202025-0d1117?style=for-the-badge&color=grey" />
-  <img src="https://img.shields.io/badge/Location-Remote-009688?style=for-the-badge" />
-</div>
+<table align="center" style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Company-Codehop%20Interfusion%20Pvt%20Ltd-8A2BE2?style=for-the-badge&logo=target" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Role-Java%20Developer%20Intern-FFA500?style=for-the-badge&logo=java&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Duration-Oct%202024%20--%20Feb%202025-555555?style=for-the-badge" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Location-Remote-009688?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=INTERNSHIP%20HIGHLIGHTS&height=100&fontSize=25&descAlignY=60&animation=twinkling" />
-</div>
+<!-- Animated Capsule Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&text=INTERNSHIP%20HIGHLIGHTS&height=80&color=gradient&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+</p>
 
+<!-- Highlights -->
 <div align="left">
-
-<blockquote>
   <ul>
-    <li>➤ Designed and implemented an automated system for account management and real-time notifications, serving over <strong>500+ users</strong>.</li><br/>
-    <li>➤ Strengthened the security and traceability of the <strong>INTERLINK</strong> module by integrating enhanced audit logging and access control.</li><br/>
-    <li>➤ Wrote <strong>50+ unit/integration tests</strong> using <code>JUnit</code>, achieving <strong>90% test coverage</strong> and minimizing production-level bugs.</li><br/>
-    <li>➤ Optimized backend scoring logic, resulting in improved focus-tracking and decision-making precision for users.</li><br/>
-    <li>➤ Followed agile practices, participated in <code>sprint planning</code>, <code>code reviews</code>, and implemented <code>CI/CD pipelines</code> under senior guidance.</li>
+    <li>
+      <b>Automated system</b> for managing user accounts and real-time notifications, supporting over <b>500+ active users</b> and reducing manual overhead.
+    </li><br/>
+    <li>
+      Enhanced <b>audit logging and access control</b> in the <b>INTERLINK</b> project, improving traceability and security compliance.
+    </li><br/>
+    <li>
+      Developed <b>50+ unit and integration tests</b> using <code>JUnit</code>, achieving <b>90% code coverage</b> and boosting backend stability.
+    </li><br/>
+    <li>
+      Refactored and optimized <b>scoring logic</b> to improve user focus tracking and actionable insights.
+    </li><br/>
+    <li>
+      Practiced agile methodologies including <code>sprint planning</code>, <code>code reviews</code>, and implemented <code>CI/CD pipelines</code> via Git workflows.
+    </li>
   </ul>
-</blockquote>
-
 </div>
+
 
 
 ---
