@@ -31,24 +31,30 @@
 ---
 
 <!-- Primary Stack Icons -->
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,docker,kafka,postgresql,redis,git,github,html,css,intellij&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,docker,kafka,redis,postgresql,mysql,git,github,intellij,html,css" />
 </p>
 
-<!-- Additional Floating Tools (manually styled) -->
-<h3 align="center">✨ Also Familiar With</h3>
+> **Also using**: Spring Boot · Spring Security · Spring Cloud · Hibernate · JPA · RabbitMQ · OAuth2 · Swagger · JUnit · Prometheus · Grafana · GitLab · Resilience4j
+---
+## 📌 Most Used Languages
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="40" title="Swagger" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" width="40" title="JUnit" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40" title="GitLab" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40" title="Prometheus" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" title="Grafana" />
-  <img src="https://img.icons8.com/color/48/spring-logo.png" width="40" title="Spring Cloud" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-oauth-2.0-logo-color-tal-revivo.png" width="40" title="OAuth2" />
-  <img src="https://img.icons8.com/ios/50/rabbitmq-server.png" width="40" title="RabbitMQ" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakverse&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
 </p>
+
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarthakverse&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sarthakverse&theme=tokyonight" height="160"/>
+</p>
+
+---
 ## 💼 Internship Experience
 
 ### 👨‍💻 Java Developer Intern @ Codehop Interfusion Pvt Ltd  
@@ -105,20 +111,9 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sarthakverse&theme=radical&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sarthakverse&theme=gruvbox&title=MultiLanguage,Commit,Repositories,Followers,PullRequest,Stars&no-frame=true&column=3&margin-w=15" />
 </p>
-
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarthakverse&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sarthakverse&theme=tokyonight" height="160"/>
-</p>
-
----
-
 
 ## 🐍 Contribution Snake
 
@@ -126,13 +121,7 @@
   <img src="https://raw.githubusercontent.com/Sarthakverse/Sarthakverse/output/snake.svg" alt=\"snake eating commits\"/>
 </p>
 ---
-## 📌 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakverse&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
-</p>
-
----
 
 ## 🔗 Connect With Me
 
