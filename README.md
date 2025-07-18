@@ -2,8 +2,9 @@
 
 <!-- Typing effect intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Hello+Traveller+👋;I'm+Sarthak+Rastogi;Java+Backend+Developer+from+India;Spring+Boot+%7C+React+%7C+Microservices;DSA+%7C+Cloud+%7C+System+Design+Learner;Open+Source+Contributor+%F0%9F%92%AA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hello+Traveller+👋;I'm+Sarthak+Rastogi;Java+Backend+Developer+from+India;Spring+Boot+%7C+React+%7C+Microservices;DSA+%7C+Cloud+%7C+System+Design+Learner;Open+Source+Contributor+%F0%9F%92%AA" />
 </p>
+
 
 
 
