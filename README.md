@@ -74,6 +74,7 @@
 ---
 
 ## 📊 GitHub Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarthakverse&theme=dark&hide_border=false) 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sarthakverse&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
@@ -222,6 +223,4 @@ The <b>Canteen Management System</b> backend is built for automating food orderi
 ---
 
 
-<!-- 🌊 Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FEEE&height=100&section=footer&animation=twinkling"/>
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
