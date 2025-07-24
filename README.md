@@ -224,3 +224,4 @@ The <b>Canteen Management System</b> backend is built for automating food orderi
 
 <!-- 🌊 Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FEEE&height=100&section=footer&animation=twinkling"/>
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
