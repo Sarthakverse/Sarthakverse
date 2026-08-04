@@ -36,7 +36,7 @@ My journey began during my college years (2022–2026), when I fell in love with
 
 By the time I graduated, I had offers from Absyz, Restroworks, and Bristlecone. I chose Bristlecone because Java had already become my comfort zone—although, looking back, I clearly underestimated my habit of constantly learning new things.
 
-Today, I build adapters for Oracle clients using Core Java, develop integration solutions with Oracle Integration Cloud and Generative AI, and actively contribute to AI projects that are helping my organization become more efficient.
+Today, I build adapters for Oracle using Core Java, develop integration solutions with Oracle Integration Cloud and Generative AI, and actively contribute to AI projects that are helping my organization become more efficient.
 
 Over the years, I've evolved from a Java developer to an integration engineer, and now I'm steadily growing into an AI engineer.
 
