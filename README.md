@@ -1,160 +1,174 @@
-<!-- 💎 Sarthak Rastogi - GitHub Profile README 💎 -->
+<div align="center">
 
-<!-- Typing effect intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Sarthak+Rastogi!;Backend+Focused+Full+Stack+Developer;Spring+Boot+%7C+Microservices+%7C+Distributed+Systems;Java+17+%7C+React+%7C+Docker;Production+Grade+System+Builder" />
-</p>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=180&section=header&text=Sarthak%20Rastogi&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner" />
 
-<h1 align="center">🚀 Backend Engineer | ☕ Java Specialist | 🧩 Distributed Systems Enthusiast</h1>
+  <!-- Animated Typing Tagline -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=4%2B+Years+Java+%2B+Distributed+Systems+Engineer;Gen+AI+%2B+RAG+Pipeline+Architect;Oracle+Integration+Cloud+(OIC)+Developer;Creator+of+Briefly+AI+--+Meeting+Intelligence" alt="Typing SVG" />
+  </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099FF,100:00FEEE&height=90&section=header&animation=twinkling"/>
+  <p align="center">
+    <code>Java Developer (4 YOE)</code> • 
+    <code>Gen AI & RAG Engineer (1 YOE)</code> • 
+    <code>OIC Integration Specialist (1 YOE)</code>
+  </p>
 
----
+  <!-- Connect Links -->
+  <p align="center">
+    <a href="https://linkedin.com/in/sarthak-rastogi-47bb11256"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:sarthakrastogi102@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://leetcode.com/u/rsarthak123"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+    <a href="https://medium.com/@rsarthakverse123"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  </p>
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sarthakverse&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-</p>
-
----
-
-## 🧠 About Me
-
-🔹 **Name:** Sarthak Rastogi  
-🔹 **Education:** B.Tech in Computer Science @ AKGEC, Ghaziabad  
-🔹 **SGPA:** 8.27  
-🔹 **Location:** Ghaziabad, Uttar Pradesh, India 🇮🇳  
-🔹 **Interests:** Distributed Systems, Backend Architecture, Production-Grade Microservices  
-🔹 **Current Focus:** System Design, Observability, Scalable Backend Engineering  
-🔹 **Fun Fact:** I *used to hate coding* till class 11th — now I architect distributed systems 😄  
+</div>
 
 ---
 
-## 🔗 Connect With Me
+## ⚡ Executive Summary
 
-<p align="center">
-  <a href="mailto:sarthakrastogi102@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/sarthak-rastogi-47bb11256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Sarthakverse"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/rsarthak123"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://medium.com/@rsarthakverse123"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-</p>
+Engineered enterprise-grade backend systems, distributed microservices, and AI-driven platforms with over **4 years of hands-on Java development**, **1 year of OIC integrations**, and **1 year architecting Generative AI & Retrieval-Augmented Generation (RAG) applications**. Focused on high-throughput microservices, robust LLM pipelines, and fault-tolerant cloud integrations.
+
+* 🎯 **Core Expertise**: Distributed Systems, Spring Boot, Spring AI, RAG Architectures, Vector Databases, Oracle Integration Cloud (OIC).
+* 🔭 **Current Focus**: Full-stack LLM orchestration, intelligent agent systems, and enterprise middleware.
+* ✍️ **Technical Writing**: Author of 6+ backend engineering articles on Medium exploring distributed systems and scalable architecture.
 
 ---
 
-## 💼 Experience
+## 🔥 Featured Flagship Project
 
-### 🏢 Software Engineer Intern  
-**Codehop Interfusion Pvt Ltd** (Oct 2024 – Feb 2025) · Remote  
+### 🎙️ Briefly AI — *AI-Powered Meeting Intelligence Platform*
 
-- Designed a config-driven authentication system handling login flow including request validation, client identification, runtime-loaded security config, username-password authentication, 6+ failure scenarios, attempt-based account locking, access/refresh token generation, password expiry enforcement, security context setup & login audit persistence.  
-- Redesigned Learning XP scoring engine using 8+ performance parameters (response time, correctness ratio, streaks, difficulty weighting, daily activity, repeated vs new questions) with exponential penalties for wrong attempts — enabling gradual skill-based progression.  
-- Built an audit-based notification system covering 6 high-priority security & transaction events.  
-- Implemented thread-safe in-memory caching for authentication configs & lookup data to reduce repeated DB calls.  
-- Wrote JUnit & Mockito tests for user account services — achieved ~90% test coverage.  
+> An enterprise-grade meeting intelligence engine that transforms unstructured transcripts (`.vtt`, `.docx`, `.txt`) into structured executive insights, technical roadmaps, and context-aware multi-turn Q&A.
 
----
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <b>🧠 LLM Pipeline</b><br/>
+        <sub>OpenAI GPT-4o-mini & DeepSeek-V4-Flash for structured summarization & automated Mermaid flowcharts.</sub>
+      </td>
+      <td width="33%" align="center">
+        <b>⚡ Speech & Vector Search</b><br/>
+        <sub>OpenWhisper audio transcription paired with Vector Database storage for contextual RAG search.</sub>
+      </td>
+      <td width="33%" align="center">
+        <b>💬 Interactive AI Assistant</b><br/>
+        <sub>Multi-turn, context-aware chatbot querying workspace data and release notes in real time.</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🏢 Software Developer Trainee  
-**Software Incubator (SDC-SI)** (Sep 2023 – Nov 2023) · On-site  
-
-- Led backend development for a Canteen Management System (Spring Boot, JWT, PostgreSQL, Razorpay).  
-- Implemented authentication, authorization, exception handling, pagination, caching, validation & multi-environment configuration.  
-- Worked in a 45-member collaborative development environment using Git & structured workflows.  
-- Built a GTA-style game clone in a 2-member team (core mechanics & gameplay logic).  
-- Developed a Flappy Bird game independently (collision detection, scoring logic).  
-- Designed a personal portfolio website (HTML, CSS, JS).  
-
----
-
-## 🚀 Major Projects
-
-### 🏦 CentralBank Microservices  
-(Feb 2026 – Present)
-
-- Engineered a production-grade distributed banking platform using Spring Boot & Spring Cloud.  
-- Implemented API Gateway, Eureka Service Discovery, Centralized Config Server & Load-Balanced Feign communication.  
-- Built distributed Correlation ID tracing for real-world observability simulation.  
-- Designed multi-environment Docker deployment (default / qa / prod).  
-- Applied clean layered architecture, DTO mapping, audit logging, exception strategy & environment isolation.  
+**Tech Stack**: `React 19` • `TypeScript` • `Spring AI / Node.js` • `Vector DB` • `PostgreSQL` • `OpenWhisper` • `Tailwind CSS`
 
 ---
 
-### 🛒 NavaRanga – Full Stack Marketplace  
-(May 2025 – Aug 2025)
+## 🛠️ Tech Stack Matrix
 
-- Built a scalable marketplace platform with Customer, Seller & Admin dashboards.  
-- Designed smart search, cart system, order lifecycle tracking & recommendation logic.  
-- Developed Seller analytics dashboard with sales reports & inventory management.  
-- Engineered Admin governance panel (seller control, category management, offers).  
-- Integrated secure transaction workflows & structured backend architecture.  
-
----
-
-### 💹 TradeXpert – Crypto Trading Platform
-
-- Full-stack platform with buy/sell, portfolio tracking & transaction history.  
-- Integrated CoinGecko API for live market data.  
-- Implemented Spring Security + JWT with 2FA.  
-- Integrated Razorpay & Stripe payment gateways.  
-- Built AI-powered assistant using Gemini API.  
-
----
-
-### 🍽️ BrunchBliss – Canteen Management System
-
-- Role-based backend with JWT authentication.  
-- Transaction lifecycle pipeline (cart → order → payment).  
-- Razorpay integration with server-side verification.  
-- ACID-compliant relational schema design.  
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,docker,kafka,redis,postgresql,mysql,git,github,gitlab,intellij,html,css" />
-</p>
-
-> Spring Boot · Spring Cloud · Eureka · Gateway · OpenFeign · Resilience4j · RabbitMQ · OAuth2 · JWT · Maven · Swagger · Docker · Distributed Tracing  
-
----
-
-## 🏆 Achievements
-
-- ✅ 348+ problems on GeeksforGeeks  
-- ✅ 229+ problems on LeetCode  
-- ✅ 155+ problems on CodeChef  
-- ⭐ 2⭐ CodeChef Rating  
-- ✍️ 6 Backend Engineering Articles on Medium  
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>☕ Core & Enterprise Backend</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Java_17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/OIC_(Oracle_Integration)-F80000?style=flat-square&logo=oracle&logoColor=white" />
+        <img src="https://img.shields.io/badge/Microservices-00599C?style=flat-square&logo=autodesk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Distributed_Tracing-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      </p>
+      <h3>🧠 AI / ML & Data Engineering</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG_Architectures-00F2FE?style=flat-square&logo=generative-ai&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vector_Databases-412991?style=flat-square&logo=databricks&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenWhisper-000000?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>💾 Databases & Messaging</h3>
+      <p>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+      </p>
+      <h3>🎨 Modern Full-Stack & Tools</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 🏛 Major Engineering Projects
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarthakverse&theme=dark&hide_border=false)
+<details>
+<summary><b>🏦 CentralBank Microservices — Enterprise Banking Infrastructure</b></summary>
+<br />
+Engineered a production-grade distributed banking system leveraging Spring Boot and Spring Cloud.
+<ul>
+  <li>Implemented Centralized Config Server, Eureka Service Discovery, API Gateway, and OpenFeign inter-service communication.</li>
+  <li>Built correlation-ID based distributed tracing for end-to-end request observability across all microservices.</li>
+  <li>Containerized services using Docker multi-environment setups (dev/qa/prod) with strict environment isolation.</li>
+</ul>
+</details>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarthakverse&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sarthakverse&theme=tokyonight" height="160"/>
-</p>
+<details>
+<summary><b>🛒 NavaRanga — Scalable E-Commerce Marketplace Platform</b></summary>
+<br />
+Full-stack multi-vendor marketplace featuring granular role-based management and recommendation engines.
+<ul>
+  <li>Integrated analytics dashboards for sellers offering real-time sales reporting and inventory management.</li>
+  <li>Designed optimized search filters, cart lifecycles, and admin governance controls.</li>
+</ul>
+</details>
+
+<details>
+<summary><b>💹 TradeXpert — Real-Time Crypto Trading Platform</b></summary>
+<br />
+Full-stack trading workspace featuring portfolio tracking, CoinGecko API market feeds, Spring Security 2FA, Razorpay/Stripe integrations, and Gemini API assistant integration.
+</details>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Algorithmic & Problem Solving Metrics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sarthakverse&theme=gruvbox&title=MultiLanguage,Commit,Repositories,Followers,PullRequest,Stars&no-frame=true&column=3&margin-w=15" />
-</p>
+<div align="center">
 
----
+| Platform | Solved / Rating | Badges & Milestones |
+| :--- | :--- | :--- |
+| <b>LeetCode</b> | <b>305+ Solved</b> | Data Structures, Algorithms & Dynamic Programming |
+| <b>GeeksforGeeks</b> | <b>348+ Solved</b> | Core Java & System Design Fundamentals |
+| <b>CodeChef</b> | <b>155+ Solved</b> | <b>2★ Rated</b> Competitive Programmer |
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sarthakverse/Sarthakverse/output/snake.svg" alt="snake eating commits"/>
-</p>
+</div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+## 📊 Engineering Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarthakverse&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sarthakverse&theme=tokyonight&hide_border=true" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakverse&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss" height="150" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed with precision & engineered for performance • <b>Sarthak Rastogi</b></sub>
+</div>
